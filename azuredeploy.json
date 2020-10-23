@@ -107,7 +107,7 @@
       "apiVersion": "2014-04-01-preview",
       "dependsOn": [ ],
       "tags": {
-        "displayName": "appbase"
+        "displayName": "appbase1"
       },
       "properties": {
         "administratorLogin": "[parameters('appbaseAdminLogin')]",

@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "Boub"
+      "value": Boub
     },
     "adminPassword": {
-      "value": "!!Boubker-Devops1234!!"
+      "value": !!Boubker-Devops1234!!
     },
     "dnsLabelPrefix": {
-      "value": "devopscleazure"
+      "value": devopscleazure
 "
     }
   }

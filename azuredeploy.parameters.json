@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "Boub"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "@@Zhara2003"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "Mcafeeebc.net"
     }
   }
 }

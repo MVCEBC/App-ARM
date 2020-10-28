@@ -2,7 +2,8 @@ variables:
   - group: 'MVISION_GROUP'
 
 trigger:
-- releases/*
+- Master
+
 pool:
   vmImage: 'ubuntu-latest'
 

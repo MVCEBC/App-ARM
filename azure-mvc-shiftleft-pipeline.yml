@@ -2,7 +2,7 @@ variables:
   - group: 'MVISION_GROUP'
 
 trigger:
-- Master
+- Main
 
 pool:
   vmImage: 'ubuntu-latest'

@@ -19,7 +19,7 @@
       "type": "string",
       "defaultValue": "[toLower(concat(parameters('vmName'),'-', uniqueString(resourceGroup().id, parameters('vmName'))))]",
       "metadata": {
-        "description": "Unique DNS Name for the Public IP used to access the Virtual Machine."
+        "description": "Unique DNS Name for the Public IP used to access the Virtual Machines."
       }
     },
     "publicIpName": {

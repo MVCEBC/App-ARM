@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Webapp-windows-github/webapp-basic-windows"
+		},
+		{
+			"name": "App-ARM",
+			"path": "."
+		},
+		{
+			"name": "Devops",
+			"path": "../../../Git-DevOps/Devops"
+		},
+		{
+			"name": "101-webapp-basic-linux",
+			"path": "../../../git-01-webapp-basic-linux/101-webapp-basic-linux"
+		}
+	],
+	"settings": {}
+}
